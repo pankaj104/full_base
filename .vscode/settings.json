@@ -1,0 +1,31 @@
+{
+    "editor.codeActionsOnSave": {
+        // "source.fixAll": true,
+        "editor.formatOnSave": true,
+        "editor.bracketPairColorization.enabled": true,
+        "dart.previewFlutterUiGuides": true
+    }
+}
+// {
+//     "security.workspace.trust.enabled": false,
+//     "[dart]": {
+//         "editor.codeActionsOnSave": {
+//             "source.fixAll": true
+//         },
+//         "editor.rulers": [
+//             80
+//         ],
+//         "editor.selectionHighlight": false,
+//         "editor.suggest.snippetsPreventQuickSuggestions": false,
+//         "editor.suggestSelection": "first",
+//         "editor.tabCompletion": "onlySnippets",
+//         "editor.wordBasedSuggestions": false,
+//     },
+//     "dart.warnWhenEditingFilesOutsideWorkspace": false,
+//     "dart.renameFilesWithClasses": "prompt",
+//     "window.zoomLevel": 1,
+//    // "workbench.colorTheme": "Dracula",
+//     "editor.bracketPairColorization.enabled": true,
+//     "editor.inlineSuggest.enabled": true,
+//     "editor.formatOnSave": true
+// }
